@@ -1,0 +1,253 @@
+Skip to content
+SigmaCalculator
+Repository navigation
+Code
+Issues
+Pull requests
+Get started with GitHub Actions
+Build, test, and deploy your code. Make code reviews, branch management, and issue triaging work the way you want. Select a workflow to get started.
+
+Skip this and set up a workflow yourself 
+
+Search workflows
+Suggested for this repository
+Android CI
+By GitHub Actions
+
+Android CI logo
+Build an Android project with Gradle.
+
+Java
+Java with Ant
+By GitHub Actions
+
+Java with Ant logo
+Build and test a Java project with Apache Ant.
+
+Java
+Clojure
+By GitHub Actions
+
+Clojure logo
+Build and test a Clojure project with Leiningen.
+
+Clojure
+Publish Java Package with Gradle
+By GitHub Actions
+
+Publish Java Package with Gradle logo
+Build a Java Package using Gradle and publish to GitHub Packages.
+
+Java
+Java with Gradle
+By GitHub Actions
+
+Java with Gradle logo
+Build and test a Java project using a Gradle wrapper script.
+
+Java
+Publish Java Package with Maven
+By GitHub Actions
+
+Publish Java Package with Maven logo
+Build a Java Package using Maven and publish to GitHub Packages.
+
+Java
+Deployment
+View alldeployment workflows
+Deploy Java app to Azure Functions App
+By Microsoft Azure
+
+Deploy Java app to Azure Functions App logo
+Build a Java project and deploy it to an Azure Functions App on Windows or Linux.
+
+Deployment
+Deploy a Java .jar app to an Azure Web App
+By Microsoft Azure
+
+Deploy a Java .jar app to an Azure Web App logo
+Build a Java project and deploy it to an Azure Web App.
+
+Deployment
+Deploy to Amazon ECS
+By Amazon Web Services
+
+Deploy to Amazon ECS logo
+Deploy a container to an Amazon ECS service powered by AWS Fargate or Amazon EC2.
+
+Deployment
+Build and Deploy to GKE
+By Google Cloud
+
+Build and Deploy to GKE logo
+Build a docker container, publish it to Google Container Registry, and deploy to GKE.
+
+Deployment
+Terraform
+By HashiCorp
+
+Terraform logo
+Set up Terraform CLI in your GitHub Actions workflow.
+
+Deployment
+Deploy to Alibaba Cloud ACK
+By Alibaba Cloud
+
+Deploy to Alibaba Cloud ACK logo
+Deploy a container to Alibaba Cloud Container Service for Kubernetes (ACK).
+
+Deployment
+Deploy to IBM Cloud Kubernetes Service
+By IBM
+
+Deploy to IBM Cloud Kubernetes Service logo
+Build a docker container, publish it to IBM Cloud Container Registry, and deploy to IBM Cloud Kubernetes Service.
+
+Deployment
+Tencent Kubernetes Engine
+By Tencent Cloud
+
+Tencent Kubernetes Engine logo
+This workflow will build a docker container, publish and deploy it to Tencent Kubernetes Engine (TKE).
+
+Deployment
+Security
+View allsecurity workflows
+CodeQL Analysis
+By GitHub
+
+Security analysis from GitHub for C, C++, C#, Go, Java, JavaScript, TypeScript, Python, Ruby, Kotlin and Swift developers.
+
+Code scanning
+Dependency Review
+By GitHub Actions
+
+Scans Pull Requests on each push for the introduction and/or resolution of vulnerable dependencies to the repository
+
+Dependency review
+APIsec Scan
+By APIsec
+
+APIsec Scan logo
+APIsec provides the industry’s only automated and continuous API testing platform that uncovers security vulnerabilities and logic flaws in APIs.
+
+Code scanning
+Appknox
+By Appknox
+
+Appknox logo
+Use Appknox action for faster and precise security assessments of your iOS and Android apps developed using any programming language
+
+Code scanning
+Continuous integration
+View allcontinuous integration workflows
+SLSA Generic generator
+By Open Source Security Foundation (OpenSSF)
+
+SLSA Generic generator logo
+Generate SLSA3 provenance for your existing release workflows
+
+Go
+Java with Maven
+By GitHub Actions
+
+Java with Maven logo
+Build and test a Java project with Apache Maven.
+
+Java
+Scala
+By GitHub Actions
+
+Scala logo
+Build and test a Scala project with SBT.
+
+Scala
+Build projects with Make
+By GitHub Actions
+
+Build projects with Make logo
+Build and test a project using Make.
+
+Makefile
+Automation
+View allautomation workflows
+Manual workflow
+By GitHub Actions
+
+Simple workflow that is manually triggered.
+
+Automation
+Greetings
+By GitHub Actions
+
+Greets users who are first time contributors to the repo
+
+Automation
+AI issue summary
+By GitHub Actions
+
+Summarizes new issues
+
+Automation
+Stale
+By GitHub Actions
+
+Checks for stale issues and pull requests
+
+Automation
+Pages
+View allPages workflows
+NuxtJS
+By GitHub Actions
+
+NuxtJS logo
+Package a NuxtJS site.
+
+Hugo
+By GitHub Actions
+
+Hugo logo
+Package a Hugo site.
+
+Astro
+By GitHub Actions
+
+Astro logo
+Deploy an Astro site.
+
+Astro
+GitHub Pages Jekyll
+By GitHub Actions
+
+GitHub Pages Jekyll logo
+Package a Jekyll site with GitHub Pages dependencies preinstalled.
+
+Browse all categories
+Deployment
+Security
+Continuous integration
+Automation
+Pages
+Learn more about GitHub Actions
+Getting started and core concepts
+New to Actions? Start here. Learn the core concepts and how to get started.
+
+Configuring and managing workflows
+Create custom workflows to control your project's life cycle processes.
+
+Any language
+Language and framework guides
+Guides for projects written in many programming languages.
+
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
